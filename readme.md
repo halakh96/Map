@@ -15,4 +15,4 @@ Map Project is a website that identify coronavirus testing centers on google map
 <img src="assets/img/screenshot.png">
 
 ## Live preview
-Check out the demo page [Live Preview](https://cranky-beaver-adcb2b.netlify.app/)
+Check out the demo page [Live Preview](https://halakh96-map.netlify.app/)
